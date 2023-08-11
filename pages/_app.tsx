@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="description"
-          content="SkyFunding SkySol Token Claim App"
+          content="Maui Lavaraze Token Funding App"
         />
         <meta
           name="keywords"
