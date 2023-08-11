@@ -16,7 +16,7 @@ import styles from "../styles/Home.module.css";
 import { parseIneligibility } from "../utils/parseIneligibility";
 
 const Home = () => {
-  const tokenAddress = "0x0d86912713639FAB369BA4A4705D407c9eEAaB5A";
+  const tokenAddress = "0x0B4C608d1731504fA1261618226462eD131E427B";
   const { contract } = useContract(tokenAddress, "token-drop");
   const address = useAddress();
   const [quantity, setQuantity] = useState(1);
